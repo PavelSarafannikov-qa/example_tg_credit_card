@@ -1,2 +1,2 @@
-pyTelegramBotAPI
-faker
+pyTelegramBotAPI==4.7.0
+Faker==15.0.0
